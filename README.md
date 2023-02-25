@@ -1,6 +1,8 @@
 # NVIDIA Store
 NVIDIA Store made with React.js
+
 Made a data file containing names, images, prices, etc of items
+
 Worked with routers
 
 Live preview [here👈](https://latumat.github.io/NVIDIA-Store)
