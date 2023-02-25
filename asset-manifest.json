@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/NVIDIA-Store/static/css/main.39ca0238.css",
-    "main.js": "/NVIDIA-Store/static/js/main.b31720a8.js",
+    "main.js": "/NVIDIA-Store/static/js/main.32c604d4.js",
     "static/media/rtx-3090.jpg": "/NVIDIA-Store/static/media/rtx-3090.3aed8e8aecdfcb2e2cf8.jpg",
     "static/media/nvidia-rtx-3080.png": "/NVIDIA-Store/static/media/nvidia-rtx-3080.21df5434f94d2055f1c5.png",
     "static/media/nvidia-rtx-3080ti.png": "/NVIDIA-Store/static/media/nvidia-rtx-3080ti.21df5434f94d2055f1c5.png",
@@ -10,10 +10,10 @@
     "static/media/nvidia-rtx-3090.png": "/NVIDIA-Store/static/media/nvidia-rtx-3090.0ef2810f6f96c28ef341.png",
     "index.html": "/NVIDIA-Store/index.html",
     "main.39ca0238.css.map": "/NVIDIA-Store/static/css/main.39ca0238.css.map",
-    "main.b31720a8.js.map": "/NVIDIA-Store/static/js/main.b31720a8.js.map"
+    "main.32c604d4.js.map": "/NVIDIA-Store/static/js/main.32c604d4.js.map"
   },
   "entrypoints": [
     "static/css/main.39ca0238.css",
-    "static/js/main.b31720a8.js"
+    "static/js/main.32c604d4.js"
   ]
 }
