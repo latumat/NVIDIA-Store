@@ -1,0 +1,149 @@
+.homepage {
+  display: flex;
+  flex-direction: column;
+  background-image: url("./Images/rtx-3090.jpg");
+  background-size: cover;
+  background-position: 50%;
+  min-height: 100vh;
+}
+
+/* Navbars */
+
+.nav1 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 20vh;
+  color: white;
+}
+
+.nav2 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 20vh;
+}
+
+.nav-links {
+  width: 40%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}
+
+/* Shop Body */
+.home-body {
+  display: flex;
+  flex-direction: column;
+  padding: 130px;
+  color: white;
+}
+
+.shop-now:hover {
+  background-color: #c2bfbc;
+}
+
+.shop-now {
+  width: 200px;
+  height: 50px;
+  background-color: #e6e3e0;
+  cursor: pointer;
+  border: none;
+  font-weight: 900;
+}
+
+/* Shop */
+
+.shop {
+  background-color: #f8f5f2;
+  min-height: 100vh;
+}
+
+.shop-body {
+  display: flex;
+  padding: 0 130px;
+}
+
+.images {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #e6e3e0;
+  width: 300px;
+  height: 300px;
+}
+
+.card {
+  margin: 10px;
+}
+
+.left-shop {
+  margin-right: 100px;
+}
+
+.right-shop-row {
+  display: flex;
+}
+
+/* Product */
+
+.product {
+  background-color: #e6e3e0;
+}
+
+.product-and-cart {
+  display: flex;
+  min-height: 100vh;
+}
+
+.product-information {
+  display: flex;
+  width: 65%;
+  padding: 150px;
+}
+
+.product-name {
+  font-size: 40px;
+  width: 30%;
+}
+
+.product-image-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 30px;
+}
+.product-image {
+  width: 450px;
+  transform: rotate(270deg);
+}
+
+.product-cart {
+  background-color: #f8f5f2;
+  display: flex;
+  justify-content: center;
+  width: 25%;
+  padding-top: 250px;
+}
+
+.cart-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.cart-buttons:hover {
+  background-color: #c2bfbc;
+}
+
+.cart-buttons, .cart-price {
+  width: 200px;
+  height: 60px;
+  margin: 5px;
+}
+
+.cart-buttons {
+  background-color: #e6e3e0;
+  cursor: pointer;
+  border: none;
+}
